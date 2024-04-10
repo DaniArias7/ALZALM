@@ -1,4 +1,6 @@
-def decimal_a_hexadecimal(decimal):
+#O(log n)
+
+def decimal_a_hexadecimal(decimal): # 0(1)
     hex_map = {
         10: 'A',
         11: 'B',
@@ -8,14 +10,14 @@ def decimal_a_hexadecimal(decimal):
         15: 'F'
     }
 
-    if decimal < 10:
-        return str(decimal)
-    elif decimal in hex_map:
-        return hex_map[decimal]
-    else:
-        cociente = decimal // 16
-        residuo = decimal % 16
-        return decimal_a_hexadecimal(cociente) + decimal_a_hexadecimal(residuo)
+    if decimal < 10: # 0(1)
+        return str(decimal) # 0(1)
+    elif decimal in hex_map: # 0(1)
+        return hex_map[decimal] # 0(1)
+    else: 
+        cociente = decimal // 16 # 0(1)
+        residuo = decimal % 16 # 0(1)
+        return decimal_a_hexadecimal(cociente) + decimal_a_hexadecimal(residuo) #O(log n)
 
 numero_decimal = 71092
-print("El número decimal", numero_decimal, "en hexadecimal es:", decimal_a_hexadecimal(numero_decimal))
+print("El número decimal", numero_decimal, "en hexadecimal es:", decimal_a_hexadecimal(numero_decimal)) #O(log n)
