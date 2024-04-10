@@ -1,5 +1,10 @@
 # ALZALM
 
+"""POINT 1"""
+a_n\:=\:5a_{n-1}\:+\:6a_{n-2},\:n\ge 0
+
+Donde, 𝑎_0 = # 𝑑𝑒 𝑙𝑒𝑡𝑟𝑎𝑠 𝑑𝑒 𝑠𝑢 𝑝𝑟𝑖𝑚𝑒𝑟 𝑛𝑜𝑚𝑏𝑟𝑒 y 𝑎_1 = # 𝑑𝑒 𝑙𝑒𝑡𝑟𝑎𝑠 𝑑𝑒 𝑠𝑢 𝑝𝑟𝑖𝑚𝑒𝑟 𝑎𝑝𝑒𝑙𝑙𝑖𝑑𝑜 
+
 """POINT 2"""
 
 PASOS PARA CONVERTIR UN DECIMAL A HEXADECIMAL
