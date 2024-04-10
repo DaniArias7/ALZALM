@@ -17,5 +17,5 @@ def decimal_a_hexadecimal(decimal):
         residuo = decimal % 16
         return decimal_a_hexadecimal(cociente) + decimal_a_hexadecimal(residuo)
 
-numero_decimal = 710
+numero_decimal = 71092
 print("El número decimal", numero_decimal, "en hexadecimal es:", decimal_a_hexadecimal(numero_decimal))
