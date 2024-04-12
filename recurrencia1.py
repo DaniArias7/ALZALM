@@ -10,7 +10,7 @@ def calcular_an(n, c1, c2): ##0(1)
         return c1 #0(1)
     elif n == 1: #0(1)
         return c1 * 6 + c2 #0(1)
-    else 
+    else:
         return (7/12 * 6**n) + (7/30 * (-1)**n) #0(1)
 
 # Datos de entrada
