@@ -1,4 +1,4 @@
-# ALZALM
+# ZSLM
 
 """POINT 1"""
 a_n\:=\:5a_{n-1}\:+\:6a_{n-2},\:n\ge 0
