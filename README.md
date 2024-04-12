@@ -5,10 +5,8 @@ a_n\:=\:5a_{n-1}\:+\:6a_{n-2},\:n\ge 0
 
 Donde, 𝑎_0 = # 𝑑𝑒 𝑙𝑒𝑡𝑟𝑎𝑠 𝑑𝑒 𝑠𝑢 𝑝𝑟𝑖𝑚𝑒𝑟 𝑛𝑜𝑚𝑏𝑟𝑒 y 𝑎_1 = # 𝑑𝑒 𝑙𝑒𝑡𝑟𝑎𝑠 𝑑𝑒 𝑠𝑢 𝑝𝑟𝑖𝑚𝑒𝑟 𝑎𝑝𝑒𝑙𝑙𝑖𝑑𝑜 
 
-![image](https://github.com/DaniArias7/ALZALM/assets/129128034/3b6ecf30-1b6c-499c-9729-f221d4956a7d)
-![image](https://github.com/DaniArias7/ALZALM/assets/129128034/4525479f-3a14-4f5e-9761-f9b4938ee34a)
-![image](https://github.com/DaniArias7/ALZALM/assets/129128034/fa2440fb-67ca-4914-9dbc-fe70bf3ca2cc)
-![image](https://github.com/DaniArias7/ALZALM/assets/129128034/e4d31b63-2954-4350-ad58-0aa9722cf407)
+![Imagen de WhatsApp 2024-04-11 a las 21 38 20_c74d9fc5](https://github.com/DaniArias7/ALZALM/assets/129128034/b5f3135b-addf-48bd-9a1e-02752a7e8a93)
+
 
 
 
