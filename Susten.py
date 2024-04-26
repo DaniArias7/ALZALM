@@ -1,7 +1,5 @@
 SEGÚN ESTOS CODIGOS CAMBIA LO QUE YO TE DIGA PARA CADA UNO.
 
-PARA EL CODIGO 3 
-
 CODIGO 1
 
 # 1. Encontrar la posición n=100
@@ -271,3 +269,9 @@ except MemoryError as error_memoria:
     print("Error en la capacidad de memoria usable:", error_memoria)
 except TypeError as error_tipo:
     print("Error:", error_tipo)
+
+
+
+
+
+PARA EL CODIGO 3 CAMBIA 
